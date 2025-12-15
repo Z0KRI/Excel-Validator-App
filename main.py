@@ -1,5 +1,5 @@
 from core import AppBase
-from UI import MainWindow
+from ui import MainWindow
 import sys
 
 def main():
